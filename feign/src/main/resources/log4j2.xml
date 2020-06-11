@@ -3,7 +3,7 @@
 <configuration status="error" monitorInterval="3600">
     <properties>
         <property name="LOG_HOME">logs</property>
-        <property name="FILE_NAME">eurekaClient</property>
+        <property name="FILE_NAME">feign</property>
     </properties>
     <appenders>
         <!--这个输出控制台的配置 -->
